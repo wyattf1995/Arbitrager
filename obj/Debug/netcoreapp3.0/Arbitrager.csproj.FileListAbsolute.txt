@@ -129,3 +129,7 @@ C:\Users\Wyatt\source\repos\Arbitrager\bin\Debug\netcoreapp3.0\eBayScraper.Core.
 C:\Users\Wyatt\source\repos\Arbitrager\bin\Debug\netcoreapp3.0\HtmlAgilityPack.dll
 C:\Users\Wyatt\source\repos\Arbitrager\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
 C:\Users\Wyatt\source\repos\Arbitrager\obj\Debug\netcoreapp3.0\Arbitrager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wyatt\source\repos\Arbitrager\bin\Debug\netcoreapp3.0\eBayScraper.Data.dll
+C:\Users\Wyatt\source\repos\Arbitrager\bin\Debug\netcoreapp3.0\eBayScraper.Data.pdb
+C:\Users\Wyatt\source\repos\Arbitrager\obj\Debug\netcoreapp3.0\Razor\Views\Arbitrager\Index.cshtml.g.cs
+C:\Users\Wyatt\source\repos\Arbitrager\obj\Debug\netcoreapp3.0\Razor\Views\Arbitrager\List.cshtml.g.cs
